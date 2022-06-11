@@ -1,0 +1,20 @@
+To Start Image Server first Locate to the location where Boost ASIO client app is running. Then write this python command
+
+python -m http.server
+
+Start C++ Server:
+from powershell locate server.exe. then ./server.exe 5001 . Here 5001 is the port number. IP address will be local address(see from netconfig command)
+Start C++ Client:
+./client.exe IP PORT
+e.g. ./client.exe 192.168.0.108 5001
+
+Example Location: C:\Users\User\source\repos\Networking\x64\Debug
+
+Example Image Location:
+C:\Users\User\source\repos\Networking\SimpleExample
+
+Example JSON:
+
+{"gps":"40.741895,-73.989308","date":"1stmay","temp":"37.5","acc":"x:0.59,y:0.39,z:0.44","gyro":"x:0.76,y:0.23,z:0.54","volt":"12.9", "N":"1"}
+
+{"imageUrl":"n","gps":"40.741895,-73.989308","date":"1stmay","temp":"37.5","acc":"x:0.59,y:0.39,z:0.44","gyro":"x:0.76,y:0.23,z:0.54","volt":"12.9", "N":"1"}

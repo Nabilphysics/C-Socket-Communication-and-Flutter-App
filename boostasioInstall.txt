@@ -1,0 +1,12 @@
+Visual Studio :
+1) Under Solution right click projet. e.g. chat_client
+2) Properties > Incldue Directory
+3) paste "C:\Users\User\Downloads\boost_1_79_0" in Incldue Directores
+make sure Configuration: All Configurations Platform: All Platforms
+
+4) boost_1_79_0\tools\build and click to build. 
+
+Before using Boost.Asio, the Boost.System library needs to be built. This can
+be done by running bjam in the libs/system/build directory. Consult the Boost
+Getting Started page (http://www.boost.org/more/getting_started.html) for more
+information on how to build the Boost libraries.
