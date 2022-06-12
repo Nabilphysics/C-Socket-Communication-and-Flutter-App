@@ -5,6 +5,6 @@ This project can be done in various way. But, I have used C++ as much as possibl
 
 Code Link for Easy Lookup: 
 Flutter App Link: https://github.com/Nabilphysics/Flutter_TCP_Socket_Connection
-C++ TCP Client: https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/blob/main/Client_Hardware/Client_hardware_code/chat_client.cpp
-C++ Server(100% from BOOST ASIO): https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/tree/main/Server/Server_code_c%2B%2B
-Hardware Side Skeleton Code and Driver: https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/tree/main/hardware%20driver%20code 
+</br>C++ TCP Client: https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/blob/main/Client_Hardware/Client_hardware_code/chat_client.cpp
+</br>C++ Server(100% from BOOST ASIO): https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/tree/main/Server/Server_code_c%2B%2B
+</br>Hardware Side Skeleton Code and Driver: https://github.com/Nabilphysics/C-Socket-Communication-and-Flutter-App/tree/main/hardware%20driver%20code 
